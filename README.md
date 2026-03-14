@@ -1,30 +1,144 @@
-# Nextjs-learning-journey
+# Next.js Learning Journey
 
-Journey of learning Next.js step by step, including routing, server components, dynamic routes, and full-stack integration.
+This repository documents my journey of learning **Next.js** step by step while building practical examples and understanding core concepts.
+
+The goal of this repository is to track my progress, practice concepts, and build a strong foundation in modern full-stack web development.
+
+---
 
 ## Tech Stack
 
-- Next.js 15
-- React 19
+- JavaScript
+- React
+- Next.js
 - Node.js
-- MongoDB (for later sections)
+- Git & GitHub
+- VS Code
 
-## Features Covered
+---
 
-- Static & Dynamic Routes
-- Nested Routes
-- File-based Routing
-- Server & Client Components
-- Pre-rendering & Caching
+## Project Structure
 
-## Getting Started
-
-Run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
+Nextjs-learning-journey
+│
+├── src
+│   └── app
+│       ├── page.js
+│       ├── contact
+│       │   └── page.js
+│       └── users
+│           ├── page.js
+│           └── profile
+│               └── page.js
+│
+├── docs
+│   └── NOTES.md
+│
+├── public
+│
+├── .gitignore
+├── README.md
+└── package.json
+```
+
+---
+
+## Learning Progress
+
+### Section 1: Introduction
+
+Topics covered:
+
+- Introduction
+- Installing Node.js
+- IDE Setup
+- Repositories and Source Code
+- What is Next.js
+
+---
+
+### Section 2: The Basics
+
+Topics covered:
+
+- Creating an App
+- How Routes Work
+- Static Routes
+- Nested Routes
+
+---
+
+## Key Concepts Learned
+
+- Next.js Framework Overview
+- File-Based Routing
+- Static Routes
+- Nested Routes
+- Project Structure
+- Development Environment Setup
+
+---
+
+## Running the Project
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run development server:
+
+```
+npm run dev
+```
+
+Open in browser:
+
+```
+http://localhost:3000
+```
+
+---
+
+## Notes
+
+Detailed learning notes are available here:
+
+```
+docs/NOTES.md
+```
+
+---
+
+## Purpose of This Repository
+
+This repository is created to:
+
+- Practice Next.js concepts
+- Track learning progress
+- Maintain structured notes
+- Build a professional GitHub portfolio
+
+---
+
+## Future Topics
+
+Upcoming concepts to be added:
+
+- Dynamic Routes
+- Params & Search Params
+- Server Components
+- Client Components
+- Data Fetching
+- Authentication
+- Database Integration
+
+---
+
+## Author
+
+**Sohail Akhtar**
+
+Aspiring MERN Stack Developer focused on building scalable and modern web applications.
