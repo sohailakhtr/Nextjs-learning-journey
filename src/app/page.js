@@ -1,5 +1,10 @@
-
+import Nav from "@/component/nav";
 
 export default function Home() {
-  return <>i am a Home </>;
+  return (
+    <>
+      I am a Home
+      <Nav />
+    </>
+  );
 }

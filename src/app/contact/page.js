@@ -1,7 +1,8 @@
+import styles from "./styles.module.css";
 export default function ContactPage() {
   return (
     <>
-      <div>this is contact page</div>
+      <div className={styles.red}>This is contact page</div>
     </>
   );
 }

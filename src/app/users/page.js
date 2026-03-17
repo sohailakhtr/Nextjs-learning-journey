@@ -1,7 +1,17 @@
+"use client";
+import { useRouter } from "next/navigation";
+
 export default function UsersPage() {
+  const router = useRouter();
+
+  const redirectUser = () => {
+    router.push("/");
+  };
+
   return (
     <>
-      <div>this is users page</div>
+      <div>This is users page</div>
+      <button onClick={redirectUser}>Go to home</button>
     </>
   );
 }
