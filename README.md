@@ -44,8 +44,6 @@ Nextjs-learning-journey
 
 ---
 
-## 📚 Learning Progress
-
 ### ✅ Section 1: Introduction (Completed)
 
 - Introduction to Next.js
