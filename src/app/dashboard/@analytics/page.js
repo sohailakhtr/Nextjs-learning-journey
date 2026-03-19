@@ -1,7 +1,7 @@
 export default function AnalyticsPage() {
   return (
     <>
-      <h1>This is Analytics Page</h1>
+      <h1>This is Analytics PAGE</h1>
     </>
   );
 }
