@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export default function Nav() {
-  console.log("where?");
+  // console.log("where?");
 
   return (
     <ul>
