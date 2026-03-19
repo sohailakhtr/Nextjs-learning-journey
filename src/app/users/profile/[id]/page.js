@@ -3,7 +3,7 @@ export default async function UsersIDPage() {
   // const name = (await param).name
   return (
     <div>
-      <h1>This is Users ID page : </h1>
+      <h1>This is Users ID PAGE : </h1>
     </div>
   );
 }

@@ -13,7 +13,7 @@ export default async function UsersNamePage({ params, searchParams }) {
     <>
       <div>
         <b>
-          This is Users ID:{id} & User Name:{name}
+          The Users ID:{id} & The User Name:{name}
         </b>
       </div>
     </>
