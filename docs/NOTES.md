@@ -10,7 +10,7 @@ Repository: Nextjs-learning-journey
 
 ---
 
-## 1. Introduction
+## 1.The Introduction
 
 ### Concept
 
@@ -180,12 +180,6 @@ npx create-next-app@latest
 
 - Setup project
 - Run server
-
-### Golden Rule
-
-Always start with clean project setup
-
----
 
 ## 7. How Routes Work
 
